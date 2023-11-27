@@ -17,3 +17,6 @@ Proyek ini menggunakan beberapa library untuk pengolahan data, pembuatan model, 
 
 Dataset ini berisi gambar kota yang diambil pada waktu siang dan malam.
 [Link ke Dataset](https://www.kaggle.com/datasets/heonh0/daynight-cityview)
+
+File model .h5. Karena terlalu besar, tidak bisa upload
+[Link ke file Model](https://drive.google.com/file/d/1-xAm01IrksPVjSXovfyJnjVXknSOWZx8/view?usp=sharing)
